@@ -1,0 +1,26 @@
+.main-wrapper{
+    margin-top: 20px;
+}
+
+.page-title{
+    text-align: center;
+    
+    background-color: black;
+
+    color: white;
+}
+
+.registration-form{
+    width: 800px;
+    margin: auto;
+}
+
+/*
+.valid-feedback, .invalid-feedback{
+    display: block;
+}*/
+
+.container{
+   /* background-color: rgba(196, 255, 222, 0.559);*/
+   background-color:#e9ecef;
+}
